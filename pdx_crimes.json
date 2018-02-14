@@ -714,23 +714,6 @@
         "x" : 7666224,
         "y" : 675380
       }
-    },
-    {
-      "attributes" : {
-        "FID" : 38,
-        "CATEGORY" : "OTHER",
-        "CALL_GROUP" : "DISORDER",
-        "final_case" : "PARTY",
-        "CASE_DESC" : "PARTY DISTURBANCE",
-        "occ_date" : 1472342400000,
-        "x_coordina" : 7645125,
-        "y_coordina" : 694413,
-        "census_tra" : 3402
-      },
-      "geometry" : {
-        "x" : 7645125,
-        "y" : 694413
-      }
     }
   ]
 }
